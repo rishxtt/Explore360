@@ -1,4 +1,7 @@
+Here’s a tailored **README.md** file for **Explore360**, mentioning the incomplete backend with authentication still to be added:
+
 ---
+
 # Explore360 🌍  
 **Explore360** is a MERN stack web application that allows users to explore and manage locations. Users can add, view, edit, and delete places with interactive map functionality powered by Google Maps. The backend development is ongoing, with authentication yet to be implemented.
 
@@ -72,3 +75,5 @@ Contributions are welcome! Please follow these steps:
 5. Submit a pull request.
 
 ---
+
+Let me know if there’s anything else you’d like to modify!
