@@ -1,4 +1,4 @@
-Here’s a tailored **README.md** file for **Explore360**, mentioning the incomplete backend with authentication still to be added:
+
 
 ---
 
@@ -76,4 +76,3 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-Let me know if there’s anything else you’d like to modify!
